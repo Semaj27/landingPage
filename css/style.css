@@ -1,7 +1,7 @@
-.head{
+.header{
     background: #1F2937 !important;
     display: block;
-    border: 23;
+    padding: 30px;
 }
 .main{
     background: white;
