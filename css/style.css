@@ -10,21 +10,17 @@
     width: 100vw;
     height: 100vh;
     grid-template-rows: repeat(4, 1fr);
-    @media screen and (max-width: 60em) {
+    @media screen and (max-width: 20em) {
         grid-template-rows: repeat(4, 1fr);
       }
 }
 
 .logo{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
     color:#f9faf8;
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row: 1;  
-    @media screen and (max-width: 60em) {
+    @media screen and (max-width: 20em) {
     border-radius: 5px;
     padding: 10px;column-start: 1;
     grid-column-end: 5;
@@ -37,7 +33,7 @@
     grid-column-start: 3;
     grid-column-end: 5;
     grid-row: 1;
-    @media screen and (max-width: 60em) {
+    @media screen and (max-width: 20em) {
       grid-column-start: 1;
       grid-column-end: 5;
       grid-row: 2;
@@ -48,7 +44,7 @@
     grid-column-start: 1;
   grid-column-end: 3;
   grid-row: 2;
-  @media screen and (max-width: 60em) {
+  @media screen and (max-width: 20em) {
     grid-column-start: 1;
     grid-column-end: 5;
     grid-row: 3;
