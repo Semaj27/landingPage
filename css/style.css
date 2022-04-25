@@ -1,5 +1,5 @@
 .head{
-    background: #1F2937;
+    background: #1F2937 !important;
     display: block;
     padding: 23px;
 }
@@ -19,7 +19,7 @@
     padding: 23px;
 }
 .footer{
-    background: #1F2937;
+    background: #1F2937 !important;
     display: block;
     padding: 8px;
 }
