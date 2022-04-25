@@ -3,10 +3,12 @@
 }
 .logo{
     font-size: 24px #F9FAF8;
+
 }
 
 .title{
-    font-size: 48px extra-bold #F9FAF8;
+    font-size: 48px  #F9FAF8;
+    font-weight: extra-bold;
 }
 .links{
     font-size: 18px #E5E7EB;
@@ -16,4 +18,29 @@
 }
 .button{
     background: #3882F6;
+}
+.quote{
+    font-size: 36px #1F2937;
+    
+}
+.flex-container1{
+    display: inline-block;
+    gap: 50px;
+} 
+.flex-container2{
+    display: inline-block;
+    padding: 10px;
+}
+.flex-container3{
+    display: inline-block;  
+}
+.flex-container4{
+    background: #E5E7EB;
+}
+.flex-container5{
+ 
+}
+.sign-info{
+    background: #3882F6;
+    display: inline-block;
 }
