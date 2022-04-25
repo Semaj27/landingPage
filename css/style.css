@@ -1,22 +1,22 @@
 .head{
     background: #1F2937 !important;
     display: block;
-    padding: 23px;
+    border: 23;
 }
 .main{
     background: white;
     display: block;
-    padding: 23px;
+    border: 23px;
 }
 .quote{
     background: #e5e7eb;
     display:block;
-    padding: 23px;
+    border: 23px;
 }
 .sign{
     background: white;
     display:block;
-    padding: 23px;
+    border: 23px;
 }
 .footer{
     background: #1F2937 !important;
