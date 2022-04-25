@@ -6,20 +6,27 @@
 .main{
     background: white;
     display: block;
-    border: 23px;
+
 }
 .quote{
     background: #e5e7eb;
     display:block;
-    border: 23px;
+    padding: 23px;
+}
+.quoted{
+    font-weight: 300; /*light*/
+    font-style: italic;
+    text-align: center;
 }
 .sign{
     background: white;
     display:block;
-    border: 23px;
+   
 }
 .footer{
     background: #1F2937 !important;
     display: block;
     padding: 8px;
+    text-align: center;
+    color: #ffff;
 }
