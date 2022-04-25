@@ -1,5 +1,5 @@
 .head{
-    background-color: #1F2937;
+    background-color: red;
     display: block;
     padding: 40px;
 }
@@ -62,10 +62,6 @@
     flex: 1;
 
 }
-.footer{
-    background-color: #1F2937;
-}
-
 
 
 
