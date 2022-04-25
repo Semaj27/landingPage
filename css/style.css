@@ -103,6 +103,9 @@ main h2 {
   flex-wrap: wrap;
   margin: 3em 0 6em 0;
 }
+.card-container p{
+  color: black;
+}
 
 .card {
   text-align: center;
