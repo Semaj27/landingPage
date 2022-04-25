@@ -4,8 +4,13 @@
     padding: 30px;
 }
 .flex-container1{
-    display: flex;
-    gap: 15px;
+    display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  width: 500px;
+}
+.flex-container1 div{
+    border-radius: 5px;
+    padding: 10px;
 }
 .logo{
     font-size: 24px;
