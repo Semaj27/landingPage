@@ -1,25 +1,25 @@
 .head{
-    background-color: red;
+    background: #1F2937;
     display: block;
-    padding: 40px;
+    padding: 23px;
 }
 .main{
-    background-color: white;
+    background: white;
     display: block;
-    padding: 20px;
+    padding: 23px;
 }
 .quote{
-    background-color: #e5e7eb;
+    background: #e5e7eb;
     display:block;
-    padding: 20px;
+    padding: 23px;
 }
 .sign{
-    background-color: white;
+    background: white;
     display:block;
-    padding: 20px;
+    padding: 23px;
 }
 .footer{
-    background-color: #1F2937;
+    background: #1F2937;
     display: block;
-    padding: 10px;
+    padding: 8px;
 }
